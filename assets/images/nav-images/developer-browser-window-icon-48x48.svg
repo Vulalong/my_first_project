@@ -1,0 +1,19 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9725c;
+      }
+    </style>
+  </defs>
+  <title>developer-browser-window-icon-48x48</title>
+  <g>
+    <path class="cls-1" d="M47,0H1A1,1,0,0,0,0,1V47a1,1,0,0,0,1,1H47a1,1,0,0,0,1-1V1A1,1,0,0,0,47,0ZM46,2v8H2V2ZM2,46V12H46V46Z"/>
+    <circle class="cls-1" cx="8" cy="6" r="2"/>
+    <circle class="cls-1" cx="14" cy="6" r="2"/>
+    <circle class="cls-1" cx="20" cy="6" r="2"/>
+    <path class="cls-1" d="M27.352,20.063a1,1,0,0,0-1.289.586l-6,16a1,1,0,0,0,.586,1.289A1.029,1.029,0,0,0,21,38a1,1,0,0,0,.937-.648l6-16A1,1,0,0,0,27.352,20.063Z"/>
+    <path class="cls-1" d="M19.9,24.553a1,1,0,0,0-1.342-.448l-8,4a1,1,0,0,0,0,1.79l8,4a1,1,0,1,0,.894-1.79L13.236,29,19.447,25.9A1,1,0,0,0,19.9,24.553Z"/>
+    <path class="cls-1" d="M37.447,28.105l-8-4a1,1,0,0,0-.894,1.79L34.764,29l-6.211,3.1a1,1,0,0,0,.894,1.79l8-4a1,1,0,0,0,0-1.79Z"/>
+  </g>
+</svg>

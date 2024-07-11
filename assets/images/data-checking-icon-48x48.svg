@@ -1,0 +1,44 @@
+<svg id="icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #d9725c;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle class="cls-1" cx="32" cy="16" r="15"/>
+    </clipPath>
+  </defs>
+  <title>data-checking-icon-48x48</title>
+  <g>
+    <circle class="cls-2" cx="32" cy="16" r="15"/>
+    <line class="cls-2" x1="21.4" y1="26.6" x2="13" y2="35"/>
+    <rect class="cls-2" x="1.07" y="37.03" width="13.859" height="5.94" transform="translate(-25.941 17.373) rotate(-45)"/>
+  </g>
+  <g class="cls-3">
+    <g>
+      <polyline class="cls-2" points="21 3.5 23 3.5 23 13.5"/>
+      <polyline class="cls-2" points="31 17.5 33 17.5 33 27.5"/>
+      <rect class="cls-2" x="29" y="3.5" width="4" height="10"/>
+      <rect class="cls-2" x="21" y="17.5" width="4" height="10"/>
+      <rect class="cls-2" x="39" y="17.5" width="4" height="10"/>
+      <rect class="cls-2" x="47" y="3.5" width="4" height="10"/>
+      <polyline class="cls-2" points="39 3.5 41 3.5 41 13.5"/>
+      <polyline class="cls-2" points="21 31.5 23 31.5 23 41.5"/>
+      <rect class="cls-2" x="29" y="31.5" width="4" height="10"/>
+      <rect class="cls-2" x="47" y="31.5" width="4" height="10"/>
+      <polyline class="cls-2" points="39 31.5 41 31.5 41 41.5"/>
+    </g>
+  </g>
+</svg>
